@@ -2,12 +2,12 @@
 Robô para isntalação de todos os "acordos" dentro do DocuSign, instalando CSV por página, todos os PDFs, verificação por ID Único para evitar arquivos corrompidos e dois logs (um para verificação e outro para erros), permitindo que diante de qualquer tipo de erro, o arquivo possa ser lidado manualmente com todos os detalhes.
 
 ## Especificações:
-  Redução de esforço manual;\n
-  Mitigação de risco de perda documental no encerramento da conta do fornecedor;
-  Maior confiabilidade no backup;
-  Rastreabilidade por item;
-  Capacidade de auditoria posterior;
-  Identificação precisa de falhas e pendências;
+  Redução de esforço manual;  
+  Mitigação de risco de perda documental no encerramento da conta do fornecedor;  
+  Maior confiabilidade no backup;  
+  Rastreabilidade por item;  
+  Capacidade de auditoria posterior;  
+  Identificação precisa de falhas e pendências;  
 
 
 ## Método de Utilização:
