@@ -1,4 +1,4 @@
-# docusign_downloader_automation
+# DocuSign Downloader em Python
 Robô para isntalação de todos os "acordos" dentro do DocuSign, instalando CSV por página, todos os PDFs, verificação por ID Único para evitar arquivos corrompidos e dois logs (um para verificação e outro para erros), permitindo que diante de qualquer tipo de erro, o arquivo possa ser lidado manualmente com todos os detalhes.
 
 --- 
@@ -12,9 +12,8 @@ Robô para isntalação de todos os "acordos" dentro do DocuSign, instalando CSV
   Capacidade de auditoria posterior;
   Identificação precisa de falhas e pendências;
 </div>
---- 
 
-# Método de Utilização:
+## Método de Utilização:
 <div allign="center">
 **1. Instalação de requerimentos:**
 
@@ -24,9 +23,8 @@ Robô para isntalação de todos os "acordos" dentro do DocuSign, instalando CSV
 
 *python main.py*
 </div>
----
 
-# Observações:
+## Observações:
 <div allign="center">
   Aproximadamente **8,8 arquivos / minuto
   Arquivos baixados do DocuSign podem apresentar um caso muito específico de "ID duplo" - um
