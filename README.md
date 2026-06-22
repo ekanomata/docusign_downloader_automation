@@ -21,7 +21,7 @@ python main.py
 
 
 ## Observações:
-  Aproximadamente 8,8 arquivos / minuto
+  Aproximadamente 8,8 arquivos / minuto  
   Arquivos baixados do DocuSign podem apresentar um caso muito específico de "ID duplo" - um
   arquivo recebe assinatura digital, recebe o ID único, é baixado e assinado novamente, recebendo mais um ID no
   mesmo local. Quando o DocuSign é verificado, o ID "atrás" do novo é copiado, prevenindo a verificação via ID.
